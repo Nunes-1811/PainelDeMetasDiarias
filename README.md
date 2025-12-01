@@ -13,7 +13,7 @@ Feito para a organização Senac.
 
 ---
 
-##⚙️Tecnologia Usadas
+## ⚙️Tecnologia Usadas
 
 - </>HTML5
 - 🎨CSS3
