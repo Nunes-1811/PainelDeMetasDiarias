@@ -9,7 +9,16 @@ O projeto é um site sobre metas diárias, onde o usuário pode digitar uma meta
 ---
 
 ## 🎯Para quem é?
-Feito para a organização Senac.
+Feito de aluno para a aluno.
+
+## Captura de Tela
+![Prévia do Projeto](./imagens/PreviaCaptura.png)
+---
+## 🛠️ Melhorias Futuras
+- Melhoria responsiva
+- Organização por topicos para as metas
+- Modo escuro para melhor visualização
+- Estetica moderna
 
 ---
 
