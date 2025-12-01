@@ -15,9 +15,9 @@ Feito para a organização Senac.
 
 ##⚙️Tecnologia Usadas
 
-HTML5
-CSS3
-JavaScript (ES6+)
-VS Code
-Git e GitHub
-Navegador Google Chrome (para testes)
+###</>HTML5
+###🎨CSS3
+###♨️JavaScript (ES6+)
+###🆚VS Code
+###👩🏻‍💻Git e GitHub
+###🌐Navegador Google Chrome (para testes)
