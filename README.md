@@ -1,5 +1,5 @@
 # Painel de Metas
-## Projeto sobre o funcionamento de metas diárias para a organização pessoal.
+## 💡Projeto sobre o funcionamento de metas diárias para a organização pessoal.
 
 ---
 
