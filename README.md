@@ -14,6 +14,7 @@ Feito para a organização Senac.
 ---
 
 ##⚙️Tecnologia Usadas
+
 HTML5
 CSS3
 JavaScript (ES6+)
