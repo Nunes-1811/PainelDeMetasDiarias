@@ -35,6 +35,6 @@ Feito de aluno para a aluno.
 
 ## Autor
 * Desenvolvido por Kaio  
-Turma de Tecnologia em Informática para internet (Turno matutino) – Senac DF
+* Turma de Tecnologia em Informática para internet (Turno matutino) – Senac DF
 
 
