@@ -30,3 +30,11 @@ Feito de aluno para a aluno.
 - 🆚VS Code
 - 👩🏻‍💻Git e GitHub
 - 🌐Navegador Google Chrome (para testes)
+
+---
+
+## Autor
+* Desenvolvido por Kaio  
+Turma de Tecnologia em Informática para internet (Turno matutino) – Senac DF
+
+
